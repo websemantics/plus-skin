@@ -16,6 +16,8 @@
 ```
 > PyroCMS admin theme with a sidebar
 
+![](https://github.com/websemantics/github-skin/raw/master/resources/img/plus.png)
+
 ## Install
 
 1- Use `composer ` to install,
